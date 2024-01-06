@@ -8,7 +8,7 @@ The purpose is to apply Python scripting skills to real-world scenarios, reinfor
 
 This repository(python-challenge) contains two python assignments PyBank and PyRoll
 
-#PyBank 
+#### PyBank 
 This python script(main.py) provides detailed analysis of provided bank data and prints the output  to the terminal as well as stores in a result.txt file (analysis folder).
 
 This folder contains followings:
@@ -16,7 +16,7 @@ This folder contains followings:
 •	Resources folder, which contains budget_data.csv file 
 •	Analysis folder, which contains the detailed analysis stored in result.txt
 
-# PyRoll
+#### PyRoll
 This python script provides detailed analysis of provided election data and calculates total cast vote, participated candidates , total votes received by each candidates and the winner based on the maximum votes.
 This script(main.py) prints the output to the terminal as well as stores in a result.txt file (analysis folder).
 This folder contains followings:
